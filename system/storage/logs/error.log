@@ -699,3 +699,54 @@
 2023-06-19 6:54:58 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
 2023-06-19 6:55:39 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 204
 2023-06-19 6:55:39 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-19 6:57:19 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 204
+2023-06-19 6:57:19 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-19 6:57:21 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 204
+2023-06-19 6:57:21 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-19 6:57:46 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 204
+2023-06-19 6:57:46 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-19 6:57:48 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 204
+2023-06-19 6:57:48 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-19 6:58:12 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 204
+2023-06-19 6:58:12 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-19 6:59:35 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 204
+2023-06-19 6:59:35 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-19 6:59:39 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 204
+2023-06-19 6:59:39 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-19 6:59:51 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 204
+2023-06-19 6:59:51 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-19 7:00:12 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 204
+2023-06-19 7:00:12 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-19 7:00:15 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 204
+2023-06-19 7:00:15 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-19 7:01:33 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 204
+2023-06-19 7:01:34 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-19 7:01:51 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 204
+2023-06-19 7:01:51 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-19 7:02:15 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 204
+2023-06-19 7:02:15 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-19 7:03:37 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 204
+2023-06-19 7:03:37 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-19 7:04:37 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 204
+2023-06-19 7:04:37 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-19 7:04:46 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 204
+2023-06-19 7:04:46 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-19 7:04:48 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 204
+2023-06-19 7:04:48 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-19 7:05:24 - PHP Notice:  Undefined index: id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 191
+2023-06-19 7:05:24 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 205
+2023-06-19 7:05:24 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-19 7:05:35 - PHP Notice:  Undefined index: id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 191
+2023-06-19 7:05:35 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 205
+2023-06-19 7:05:35 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-19 7:07:40 - PHP Notice:  Undefined index: emp_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 191
+2023-06-19 7:07:40 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 205
+2023-06-19 7:07:40 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-19 7:07:48 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 191
+2023-06-19 7:07:48 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 205
+2023-06-19 7:07:48 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-19 7:08:37 - PHP Notice:  Undefined variable: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 191
+2023-06-19 7:08:37 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 205
+2023-06-19 7:08:37 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-19 7:09:04 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 205
+2023-06-19 7:09:04 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46

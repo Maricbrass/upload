@@ -19,7 +19,7 @@ class ControllerCatalogemployee extends Controller {
 		$this->document->setTitle($this->language->get('heading_title'));
 
 		$this->load->model('catalog/employee');
-		 //echo"<pre>";print_r($this->request->post);
+		//echo"<pre>";print_r($this->request->post);
 		if (($this->request->server['REQUEST_METHOD'] == 'POST') && $this->validateForm()) {
 			$this->model_catalog_employee->addemployee($this->request->post);
 
@@ -188,11 +188,12 @@ class ControllerCatalogemployee extends Controller {
 		$data['employees'] = array();
 
 		$filter_data = array(
-			'emp_name'    => $emp_name,
-			'emp_email'     => $emp_email,
-			'emp_password'  => $emp_password,
-			'emp_address'    => $emp_address,
-			'emp_gender'     => $emp_gender,
+			//'id'       => $employee_id,
+			'name'    => $emp_name,
+			'email'     => $emp_email,
+			'password'  => $emp_password,
+			'address'    => $emp_address,
+			'gender'     => $emp_gender,
 			'start' => ($page - 1) * $this->config->get('config_limit_admin'),
 			'limit' => $this->config->get('config_limit_admin')
 		);
@@ -203,12 +204,12 @@ class ControllerCatalogemployee extends Controller {
 
 		foreach ($results as $result) {
 			$data['employees'][] = array(
-				//'employee_id'          => $result['id'],
-				'emp_name'        => $result['name'],
-				'emp_email'       => $result['email'],
-				'emp_password'    => $result['password'],
-				'emp_address'         => $result['address'],
-				'emp_gender'          => $result['gender'],
+			//	'id'          => $result['employee_id'],
+				'name'        => $result['name'],
+				'email'       => $result['email'],
+				'password'    => $result['password'],
+				'address'         => $result['address'],
+				'gender'          => $result['gender'],
 				'edit'            => $this->url->link('catalog/employee/edit', 'token=' . $this->session->data['token'] . '&employee_id=' . $result['employee_id'] . $url, true)
 			);
 		}
