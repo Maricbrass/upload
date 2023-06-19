@@ -13,18 +13,18 @@ $_['text_amount']        = 'Fixed Amount';
 
 // Column
 $_['column_name']       = 'Name';
-$_['column_email']      = 'Emp_email';
-$_['column_address']    = 'Emp_address';
-$_['column_gender']     = 'Emp_gender';
+$_['column_email']      = 'E-mail';
+$_['column_address']    = 'Address';
+$_['column_gender']     = 'Gender';
 $_['column_action']      = 'Action';
 
 // Entry
-$_['name']           = 'Employee Name';
-$_['email']          = 'Email';
-$_['password']       = 'Password';
+$_['emp_name']           = 'Employee Name';
+$_['emp_email']          = 'Email';
+$_['emp_password']       = 'Password';
 // $_['entry_image']        = 'Image';
-$_['address']        = 'Address';
-$_['gender']         = 'Gender';
+$_['emp_address']        = 'Address';
+$_['emp_gender']         = 'Gender';
 
 // Help
 $_['help_keyword']       = 'Do not use spaces, instead replace spaces with - and make sure the SEO URL is globally unique.';

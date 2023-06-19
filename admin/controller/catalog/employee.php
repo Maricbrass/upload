@@ -117,6 +117,11 @@ class ControllerCatalogemployee extends Controller {
 		} else {
 			$sort = 'name';
 		}
+		if (isset($this->request->get['employee_id'])) {
+			$employee_id = $this->request->get['employee_id'];
+		} else {
+			$employee_id = null;
+		}
 		if (isset($this->request->get['emp_ name'])) {
 			$emp_name = $this->request->get['emp_name'];
 		} else {
@@ -188,7 +193,7 @@ class ControllerCatalogemployee extends Controller {
 		$data['employees'] = array();
 
 		$filter_data = array(
-			//'id'       => $employee_id,
+			'id'       => $employee_id,
 			'name'    => $emp_name,
 			'email'     => $emp_email,
 			'password'  => $emp_password,
@@ -204,7 +209,7 @@ class ControllerCatalogemployee extends Controller {
 
 		foreach ($results as $result) {
 			$data['employees'][] = array(
-			//	'id'          => $result['employee_id'],
+				'id'          => $result['employee_id'],
 				'name'        => $result['name'],
 				'email'       => $result['email'],
 				'password'    => $result['password'],
@@ -221,6 +226,9 @@ class ControllerCatalogemployee extends Controller {
 		$data['text_confirm'] = $this->language->get('text_confirm');
 
 		$data['column_name'] = $this->language->get('column_name');
+		$data['column_email'] = $this->language->get('column_email');
+		$data['column_address'] = $this->language->get('column_address');
+		$data['column_gender'] = $this->language->get('column_gender');
 		$data['column_sort_order'] = $this->language->get('column_sort_order');
 		$data['column_action'] = $this->language->get('column_action');
 

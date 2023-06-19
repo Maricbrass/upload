@@ -45,6 +45,16 @@
                     <?php } else { ?>
                     <a href="<?php echo $sort_sort_order; ?>"><?php echo $column_email; ?></a>
                     <?php } ?></td>
+                  <td class="text-right"><?php if ($sort == 'address') { ?>
+                    <a href="<?php echo $sort_sort_order; ?>" class="<?php echo strtolower($order); ?>"><?php echo $column_address; ?></a>
+                    <?php } else { ?>
+                    <a href="<?php echo $sort_sort_order; ?>"><?php echo $column_address; ?></a>
+                    <?php } ?></td>
+                  <td class="text-right"><?php if ($sort == 'gender') { ?>
+                    <a href="<?php echo $sort_sort_order; ?>" class="<?php echo strtolower($order); ?>"><?php echo $column_gender; ?></a>
+                    <?php } else { ?>
+                    <a href="<?php echo $sort_sort_order; ?>"><?php echo $column_gender; ?></a>
+                    <?php } ?></td>
                   <td class="text-right"><?php echo $column_action; ?></td>
                 </tr>
               </thead>
