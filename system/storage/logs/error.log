@@ -1,0 +1,634 @@
+2023-06-15 7:36:36 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\upload\system\library\mail.php on line 158
+2023-06-16 12:55:15 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2023-06-16 12:55:16 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2023-06-16 12:56:25 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2023-06-16 12:56:27 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2023-06-16 12:56:33 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2023-06-16 12:56:33 - PHP Notice:  Undefined variable: results in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 174
+2023-06-16 12:56:33 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 174
+2023-06-16 12:56:33 - PHP Notice:  Undefined variable: employee_total in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 243
+2023-06-16 12:56:33 - PHP Notice:  Undefined variable: employee_total in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 250
+2023-06-16 12:56:33 - PHP Notice:  Undefined variable: employee_total in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 250
+2023-06-16 12:56:33 - PHP Notice:  Undefined variable: employee_total in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 250
+2023-06-16 12:56:33 - PHP Notice:  Undefined variable: employee_total in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 250
+2023-06-16 12:56:33 - PHP Notice:  Undefined variable: employee_total in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 250
+2023-06-16 12:56:33 - PHP Notice:  Undefined variable: manufacturers in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 52
+2023-06-16 12:59:31 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2023-06-16 13:03:52 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2023-06-16 13:03:53 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2023-06-16 13:03:53 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2023-06-16 13:03:53 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2023-06-16 13:04:02 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2023-06-16 13:04:02 - PHP Notice:  Undefined variable: results in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 174
+2023-06-16 13:04:02 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 174
+2023-06-16 13:04:02 - PHP Notice:  Undefined variable: employee_total in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 243
+2023-06-16 13:04:02 - PHP Notice:  Undefined variable: employee_total in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 250
+2023-06-16 13:04:02 - PHP Notice:  Undefined variable: employee_total in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 250
+2023-06-16 13:04:02 - PHP Notice:  Undefined variable: employee_total in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 250
+2023-06-16 13:04:02 - PHP Notice:  Undefined variable: employee_total in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 250
+2023-06-16 13:04:02 - PHP Notice:  Undefined variable: employee_total in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 250
+2023-06-16 13:04:02 - PHP Notice:  Undefined variable: manufacturers in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 52
+2023-06-16 13:06:56 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2023-06-16 13:07:20 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2023-06-16 13:07:54 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2023-06-16 13:12:13 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2023-06-16 13:17:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2023-06-16 13:17:51 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2023-06-16 13:17:52 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2023-06-16 13:17:52 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2023-06-16 13:17:54 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2023-06-16 13:17:54 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2023-06-16 13:17:55 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2023-06-16 13:17:55 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2023-06-16 13:17:55 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\system\engine\loader.php on line 45
+2023-06-17 5:28:44 - PHP Notice:  Undefined variable: manufacturers in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 52
+2023-06-17 5:29:43 - PHP Notice:  Undefined variable: entry_name in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 29
+2023-06-17 5:29:43 - PHP Notice:  Undefined variable: entry_name in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 31
+2023-06-17 5:29:43 - PHP Notice:  Undefined variable: entry_store in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 38
+2023-06-17 5:29:43 - PHP Notice:  Undefined variable: entry_keyword in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 69
+2023-06-17 5:29:43 - PHP Notice:  Undefined variable: entry_keyword in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 71
+2023-06-17 5:29:43 - PHP Notice:  Undefined variable: entry_image in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 78
+2023-06-17 5:31:50 - PHP Notice:  Undefined variable: entry_store in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 38
+2023-06-17 5:31:50 - PHP Notice:  Undefined variable: entry_keyword in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 69
+2023-06-17 5:31:50 - PHP Notice:  Undefined variable: entry_keyword in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 71
+2023-06-17 5:31:50 - PHP Notice:  Undefined variable: entry_image in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 78
+2023-06-17 5:32:27 - PHP Notice:  Undefined variable: entry_keyword in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 47
+2023-06-17 5:32:27 - PHP Notice:  Undefined variable: entry_keyword in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 49
+2023-06-17 5:32:27 - PHP Notice:  Undefined variable: entry_image in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 56
+2023-06-17 5:33:08 - PHP Notice:  Undefined variable: entry_image in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 56
+2023-06-17 5:35:10 - PHP Notice:  Undefined variable: emp_gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 65
+2023-06-17 5:35:10 - PHP Notice:  Undefined variable: emp_gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 67
+2023-06-17 5:35:25 - PHP Notice:  Undefined variable: emp_gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 65
+2023-06-17 5:35:25 - PHP Notice:  Undefined variable: emp_gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 67
+2023-06-17 5:35:26 - PHP Notice:  Undefined variable: emp_gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 65
+2023-06-17 5:35:26 - PHP Notice:  Undefined variable: emp_gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 67
+2023-06-17 5:37:23 - PHP Notice:  Undefined variable: emp_gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 65
+2023-06-17 5:39:47 - PHP Notice:  Undefined variable: emp_gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 96
+2023-06-17 5:41:08 - PHP Notice:  Undefined variable: emp_gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 96
+2023-06-17 5:41:48 - PHP Notice:  Undefined variable: emp_gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 96
+2023-06-17 5:43:17 - PHP Notice:  Undefined variable: emp_gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 96
+2023-06-17 5:43:29 - PHP Notice:  Undefined variable: emp_gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 96
+2023-06-17 5:45:26 - PHP Notice:  Undefined variable: emp_gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 96
+2023-06-17 5:45:26 - PHP Notice:  Undefined variable: emp_gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 99
+2023-06-17 5:45:28 - PHP Notice:  Undefined variable: emp_gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 96
+2023-06-17 5:45:28 - PHP Notice:  Undefined variable: emp_gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 99
+2023-06-17 5:45:57 - PHP Notice:  Undefined variable: emp_gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 96
+2023-06-17 5:45:58 - PHP Notice:  Undefined variable: emp_gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 96
+2023-06-17 5:46:44 - PHP Notice:  Undefined variable: emp_gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 96
+2023-06-17 5:46:46 - PHP Notice:  Undefined variable: emp_gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 96
+2023-06-17 5:47:09 - PHP Notice:  Undefined variable: emp_gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 96
+2023-06-17 5:47:10 - PHP Notice:  Undefined variable: emp_gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 96
+2023-06-17 5:48:10 - PHP Notice:  Undefined variable: emp_gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 96
+2023-06-17 5:55:55 - PHP Notice:  Undefined index: keyword in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 414
+2023-06-17 5:55:55 - PHP Notice:  Undefined index: sort_order in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 5:58:36 - PHP Notice:  Undefined index: keyword in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 414
+2023-06-17 6:03:58 - PHP Notice:  Undefined index: keyword in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 414
+2023-06-17 6:04:16 - PHP Notice:  Undefined index: keyword in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 414
+2023-06-17 6:05:04 - PHP Notice:  Undefined index: keyword in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 414
+2023-06-17 6:10:05 - PHP Notice:  Undefined index: emp_name in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 6:10:05 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 8
+2023-06-17 6:10:05 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 9
+2023-06-17 6:10:05 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 10
+2023-06-17 6:10:05 - PHP Notice:  Undefined variable: conn in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 15
+2023-06-17 6:10:05 - PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 15
+2023-06-17 7:04:27 - PHP Notice:  Undefined variable: column_sort_order in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-17 7:04:29 - PHP Notice:  Undefined variable: column_sort_order in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-17 7:07:04 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 176
+2023-06-17 7:07:04 - PHP Notice:  Undefined index: sort_order in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 178
+2023-06-17 7:07:04 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 179
+2023-06-17 7:07:46 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 176
+2023-06-17 7:07:46 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 179
+2023-06-17 7:07:46 - PHP Notice:  Undefined index: sort_order in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 61
+2023-06-17 7:08:39 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 176
+2023-06-17 7:08:39 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 179
+2023-06-17 7:08:42 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 50
+2023-06-17 7:08:42 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 99
+2023-06-17 7:08:42 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 99
+2023-06-17 7:08:51 - PHP Notice:  Undefined index: sort_order in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 16
+2023-06-17 7:08:51 - PHP Notice:  Undefined index: keyword in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 32
+2023-06-17 7:08:52 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 176
+2023-06-17 7:08:52 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 179
+2023-06-17 7:08:57 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 50
+2023-06-17 7:08:57 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 99
+2023-06-17 7:08:57 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 99
+2023-06-17 7:09:03 - PHP Notice:  Undefined index: sort_order in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 16
+2023-06-17 7:09:03 - PHP Notice:  Undefined index: keyword in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 32
+2023-06-17 7:09:03 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 176
+2023-06-17 7:09:03 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 179
+2023-06-17 7:09:08 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 176
+2023-06-17 7:09:08 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 179
+2023-06-17 7:09:10 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 50
+2023-06-17 7:09:10 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 99
+2023-06-17 7:09:10 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 99
+2023-06-17 7:09:14 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 176
+2023-06-17 7:09:14 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 179
+2023-06-17 7:09:16 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 176
+2023-06-17 7:09:16 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 179
+2023-06-17 7:10:38 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 176
+2023-06-17 7:10:38 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 179
+2023-06-17 7:10:53 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 7:10:53 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 176
+2023-06-17 7:10:53 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 179
+2023-06-17 7:10:53 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 176
+2023-06-17 7:10:53 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 179
+2023-06-17 7:12:09 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 50
+2023-06-17 7:12:09 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 99
+2023-06-17 7:12:09 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 99
+2023-06-17 7:12:13 - PHP Notice:  Undefined index: sort_order in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 16
+2023-06-17 7:12:13 - PHP Notice:  Undefined index: keyword in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 32
+2023-06-17 7:12:13 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 176
+2023-06-17 7:12:13 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 179
+2023-06-17 7:12:13 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 176
+2023-06-17 7:12:13 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 179
+2023-06-17 7:12:37 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 7:12:37 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 176
+2023-06-17 7:12:37 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 179
+2023-06-17 7:12:37 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 176
+2023-06-17 7:12:37 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 179
+2023-06-17 7:12:37 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 176
+2023-06-17 7:12:37 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 179
+2023-06-17 7:13:31 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 176
+2023-06-17 7:13:31 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 179
+2023-06-17 7:13:31 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 176
+2023-06-17 7:13:31 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 179
+2023-06-17 7:13:31 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 176
+2023-06-17 7:13:31 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 179
+2023-06-17 7:13:44 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 7:14:12 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 7:14:26 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 7:14:33 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 7:15:22 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 7:15:29 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 7:15:41 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 7:15:41 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 7:16:16 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 176
+2023-06-17 7:16:16 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 179
+2023-06-17 7:16:16 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 176
+2023-06-17 7:16:16 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 179
+2023-06-17 7:16:16 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 176
+2023-06-17 7:16:16 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 179
+2023-06-17 7:16:16 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 176
+2023-06-17 7:16:16 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 179
+2023-06-17 7:16:16 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 176
+2023-06-17 7:16:16 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 179
+2023-06-17 7:24:09 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 7:24:47 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 7:24:47 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 7:32:58 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 7:32:58 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 11:58:58 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 11:58:58 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 11:59:58 - PHP Notice:  Undefined index: emp_name in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 11:59:58 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 11:59:58 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 12:12:42 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 90
+2023-06-17 12:12:42 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 174
+2023-06-17 12:14:59 - PHP Notice:  Undefined index: emp_name in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 12:14:59 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 12:14:59 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 12:14:59 - PHP Notice:  Undefined index: emp_name in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:14:59 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:14:59 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:14:59 - PHP Notice:  Undefined index: sort_order in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:15:29 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 12:15:29 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 12:15:29 - PHP Notice:  Undefined index: emp_name in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:15:29 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:15:29 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:15:29 - PHP Notice:  Undefined index: sort_order in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:15:39 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 12:15:39 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 12:15:39 - PHP Notice:  Undefined index: emp_name in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:15:39 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:15:39 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:15:39 - PHP Notice:  Undefined index: sort_order in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:15:50 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 12:15:50 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 12:15:50 - PHP Notice:  Undefined index: emp_name in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:15:50 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:15:50 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:15:50 - PHP Notice:  Undefined index: sort_order in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:16:03 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 12:16:03 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 12:16:03 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:16:03 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:16:03 - PHP Notice:  Undefined index: sort_order in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:16:13 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 12:16:13 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 12:16:13 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:16:13 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:16:13 - PHP Notice:  Undefined index: sort_order in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:16:16 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 12:16:16 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 12:16:16 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:16:16 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:16:16 - PHP Notice:  Undefined index: sort_order in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:16:34 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 12:16:34 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 12:16:34 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:16:34 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:16:34 - PHP Notice:  Undefined index: sort_order in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:17:00 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 12:17:00 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 12:17:00 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 12:17:00 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-17 13:08:06 - PHP Notice:  Undefined index: sort_order in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 13:08:19 - PHP Notice:  Undefined index: sort_order in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 13:14:31 - PHP Notice:  Undefined index: sort_order in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 4
+2023-06-17 13:14:31 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:14:31 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:14:57 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:14:57 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:15:38 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:15:38 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:16:39 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:16:39 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:16:39 - PHP Notice:  Undefined variable: sql in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 9
+2023-06-17 13:17:26 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:17:26 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:17:26 - PHP Notice:  Undefined variable: query in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 9
+2023-06-17 13:21:00 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:21:00 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:21:00 - PHP Notice:  Undefined variable: query in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 9
+2023-06-17 13:21:47 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:21:47 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:21:47 - PHP Notice:  Undefined variable: query in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 9
+2023-06-17 13:21:49 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:21:49 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:21:49 - PHP Notice:  Undefined variable: query in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 9
+2023-06-17 13:22:41 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:22:41 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:24:10 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:24:10 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:24:13 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:24:13 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:24:53 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:24:53 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:25:30 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:25:30 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:25:46 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:25:46 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:26:41 - PHP Notice:  Undefined index: emp_name in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:26:41 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:26:41 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:27:05 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:27:05 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:27:51 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:27:51 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:27:54 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-17 13:27:54 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-18 8:15:07 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-18 8:15:07 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-18 8:34:34 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-18 8:34:34 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-18 8:35:04 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-18 8:35:04 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-18 8:51:59 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-18 8:51:59 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-18 8:52:14 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-18 8:52:14 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-18 8:52:16 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-18 8:52:16 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-18 8:55:59 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-18 8:55:59 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-18 9:01:28 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-18 9:01:28 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-18 11:30:06 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-18 11:30:06 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-18 11:33:59 - PHP Notice:  Undefined index: emp_name in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-18 11:33:59 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-18 11:33:59 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-18 11:33:59 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-18 11:33:59 - PHP Notice:  Undefined index: emp_gender in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-18 11:57:59 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 11:58:05 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 11:59:13 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 12:27:11 - PHP Notice:  Undefined index: emp_name in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 6
+2023-06-18 12:27:11 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 6
+2023-06-18 12:27:11 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 6
+2023-06-18 12:27:11 - PHP Notice:  Undefined index: address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 6
+2023-06-18 12:33:23 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-18 12:33:23 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 198
+2023-06-18 12:33:23 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 12:33:41 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-18 12:33:41 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 198
+2023-06-18 12:33:41 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 12:33:51 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-18 12:33:51 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 198
+2023-06-18 12:33:51 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 12:33:53 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-18 12:33:53 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 198
+2023-06-18 12:33:53 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 12:34:27 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-18 12:34:27 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 198
+2023-06-18 12:34:28 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 12:34:32 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-18 12:34:32 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 198
+2023-06-18 12:34:32 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 12:37:42 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-18 12:37:42 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 198
+2023-06-18 12:37:42 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 12:38:02 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-18 12:38:02 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 198
+2023-06-18 12:38:02 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 12:39:47 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-18 12:39:47 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 198
+2023-06-18 12:39:47 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 12:40:11 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-18 12:40:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 198
+2023-06-18 12:40:11 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 12:40:12 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-18 12:40:12 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 198
+2023-06-18 12:40:12 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 12:40:20 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-18 12:40:20 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 198
+2023-06-18 12:40:20 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 12:40:21 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-18 12:40:21 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 198
+2023-06-18 12:40:21 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 12:58:06 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-18 12:58:06 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 198
+2023-06-18 12:58:06 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 12:58:15 - PHP Notice:  Undefined index: emp_name in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-18 12:58:15 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-18 12:58:15 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-18 12:58:15 - PHP Notice:  Undefined index: address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 7
+2023-06-18 12:58:15 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-18 12:58:15 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 198
+2023-06-18 12:58:15 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 12:59:19 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-18 12:59:19 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 198
+2023-06-18 12:59:19 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 12:59:40 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 91
+2023-06-18 12:59:40 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 12:59:40 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 13:03:32 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 91
+2023-06-18 13:03:32 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 13:03:32 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 13:05:18 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 13:05:18 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 13:05:48 - PHP Notice:  Undefined variable: result in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 13:05:48 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 13:05:48 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 13:05:54 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 13:05:55 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 13:06:01 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 13:06:01 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 13:06:08 - PHP Notice:  Undefined index: emp_name in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 6
+2023-06-18 13:06:08 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 6
+2023-06-18 13:06:08 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 6
+2023-06-18 13:06:08 - PHP Notice:  Undefined index: address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 6
+2023-06-18 13:06:08 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 13:06:08 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 13:07:09 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 13:07:09 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 13:07:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 13:07:11 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 13:07:25 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 13:07:25 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 13:07:36 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 13:07:36 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 13:07:36 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 13:07:37 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 13:07:41 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 13:07:41 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 13:09:06 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 13:09:17 - PHP Notice:  Undefined index: emp_name in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 6
+2023-06-18 13:09:17 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 6
+2023-06-18 13:09:17 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 6
+2023-06-18 13:09:17 - PHP Notice:  Undefined index: address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 6
+2023-06-18 13:09:17 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 13:09:44 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 13:10:43 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 44
+2023-06-18 13:12:27 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 13:12:38 - PHP Notice:  Undefined index: emp_name in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 6
+2023-06-18 13:12:38 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 6
+2023-06-18 13:12:38 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 6
+2023-06-18 13:12:38 - PHP Notice:  Undefined index: address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 6
+2023-06-18 13:12:38 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 16:40:50 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 16:41:50 - PHP Notice:  Undefined index: emp_name in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 6
+2023-06-18 16:41:50 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 6
+2023-06-18 16:41:50 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 6
+2023-06-18 16:41:50 - PHP Notice:  Undefined index: address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 6
+2023-06-18 16:41:50 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 16:42:10 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 16:42:10 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 16:42:36 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 16:42:36 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 16:42:38 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 16:42:38 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 16:46:36 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 16:46:37 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 16:48:10 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 16:48:10 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 16:48:42 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 16:48:43 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 16:49:53 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 16:49:53 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 16:50:36 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 16:50:36 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 16:52:49 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 16:52:49 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 16:52:50 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 16:52:50 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 16:52:55 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 16:52:55 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 16:52:56 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 16:52:56 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 16:53:10 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 16:53:10 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 16:53:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 16:53:11 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 16:55:23 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 16:55:23 - PHP Notice:  Undefined variable: emp_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 16:56:01 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 16:56:01 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 16:56:02 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 16:56:02 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 16:56:13 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 16:56:13 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 16:56:13 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 16:57:10 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 16:57:10 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 16:57:53 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 16:57:53 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 16:57:54 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 16:57:54 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 16:58:09 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 16:58:09 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 16:59:52 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 16:59:52 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 17:00:02 - PHP Notice:  Undefined index: emp_name in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 6
+2023-06-18 17:00:02 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 6
+2023-06-18 17:00:02 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 6
+2023-06-18 17:00:02 - PHP Notice:  Undefined index: address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 6
+2023-06-18 17:00:02 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 17:00:02 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 17:00:53 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 17:00:53 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 17:02:34 - PHP Notice:  Undefined index: emp_name in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:02:34 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:02:34 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:02:34 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:03:31 - PHP Notice:  Undefined index: emp_name in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:03:31 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:03:31 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:03:31 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:03:36 - PHP Notice:  Undefined index: emp_name in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:03:36 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:03:36 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:03:36 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:03:38 - PHP Notice:  Undefined index: emp_name in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:03:38 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:03:38 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:03:38 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:04:26 - PHP Notice:  Undefined index: emp_name in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:04:26 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:04:26 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:04:26 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:04:37 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:04:37 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:04:37 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:04:46 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:04:46 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:04:46 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:04:49 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:04:49 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:04:49 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:05:03 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:05:03 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:05:03 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:05:06 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:05:06 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:05:06 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:05:16 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:05:16 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:05:16 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:05:28 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:05:28 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:05:28 - PHP Notice:  Undefined index: address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:06:06 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:06:06 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:06:06 - PHP Notice:  Undefined index: address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:06:09 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:06:09 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:06:09 - PHP Notice:  Undefined index: address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:06:17 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:06:17 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:06:17 - PHP Notice:  Undefined index: address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:06:42 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:06:42 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:06:42 - PHP Notice:  Undefined index: address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:06:45 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:06:45 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:06:45 - PHP Notice:  Undefined index: address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:07:24 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 17:07:24 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 17:07:38 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 17:07:38 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 17:07:39 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 17:07:39 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 17:07:49 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 17:07:49 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 17:08:09 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:08:09 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:08:09 - PHP Notice:  Undefined index: address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:09:36 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:09:36 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:09:36 - PHP Notice:  Undefined index: address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:09:57 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:09:57 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:09:57 - PHP Notice:  Undefined index: address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:10:00 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 17:10:00 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 17:10:02 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 197
+2023-06-18 17:10:02 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 17:11:04 - PHP Notice:  Undefined variable: emp_password in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 187
+2023-06-18 17:11:04 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 198
+2023-06-18 17:11:04 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 17:11:06 - PHP Notice:  Undefined variable: emp_password in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 187
+2023-06-18 17:11:06 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 198
+2023-06-18 17:11:06 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 17:14:32 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 203
+2023-06-18 17:14:32 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 17:15:01 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 203
+2023-06-18 17:15:01 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 17:15:01 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 203
+2023-06-18 17:15:02 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 17:15:28 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 203
+2023-06-18 17:15:28 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 17:15:29 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 203
+2023-06-18 17:15:29 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 17:15:35 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 203
+2023-06-18 17:15:35 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 17:17:01 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 203
+2023-06-18 17:17:01 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 17:18:59 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 203
+2023-06-18 17:18:59 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 17:19:02 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 203
+2023-06-18 17:19:02 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 17:19:36 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 203
+2023-06-18 17:19:36 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 17:21:04 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 203
+2023-06-18 17:21:04 - PHP Notice:  Undefined variable: column_email in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 46
+2023-06-18 17:21:44 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:21:44 - PHP Notice:  Undefined index: password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:21:44 - PHP Notice:  Undefined index: address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:22:48 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:22:48 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:22:48 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:27:16 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:27:16 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:27:16 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:27:18 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:27:18 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:27:18 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:27:35 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:27:35 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:27:35 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:28:30 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:28:30 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:28:30 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:29:34 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:29:34 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:29:34 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:35:28 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:35:28 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:35:28 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:37:03 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:37:03 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:37:03 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:37:34 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:37:34 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:37:34 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:39:47 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:39:47 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:39:47 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:39:58 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:39:58 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:39:58 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:40:01 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:40:01 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:40:01 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:40:08 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:40:08 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:40:08 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:40:23 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:40:23 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:40:23 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:41:23 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:41:23 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:41:23 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:41:27 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:41:27 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:41:27 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:41:45 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:41:45 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:41:45 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:41:48 - PHP Notice:  Array to string conversion in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:41:48 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:41:48 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:41:55 - PHP Notice:  Undefined index: emp_email in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:41:55 - PHP Notice:  Undefined index: emp_password in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
+2023-06-18 17:41:55 - PHP Notice:  Undefined index: emp_address in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 5
