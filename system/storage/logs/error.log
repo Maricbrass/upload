@@ -764,3 +764,72 @@
 2023-06-19 7:38:49 - PHP Notice:  Undefined variable: column_gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 56
 2023-06-19 7:39:36 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 210
 2023-06-19 7:40:06 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 210
+2023-06-19 7:43:23 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 210
+2023-06-19 7:44:37 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 209
+2023-06-19 7:44:57 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 211
+2023-06-19 7:46:06 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-19 7:46:06 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 211
+2023-06-19 7:50:51 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 211
+2023-06-19 7:51:02 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-19 7:51:02 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 211
+2023-06-19 7:53:46 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-19 7:53:46 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 211
+2023-06-19 8:01:43 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-19 8:01:43 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 211
+2023-06-19 8:06:58 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-19 8:06:58 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 211
+2023-06-19 8:30:44 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-19 8:30:44 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 211
+2023-06-19 8:30:46 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-19 8:30:46 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 211
+2023-06-19 8:32:16 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-19 8:32:16 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 211
+2023-06-19 8:36:54 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-19 8:36:54 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 211
+2023-06-19 8:38:02 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-19 8:38:02 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 211
+2023-06-19 8:38:18 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-19 8:38:18 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 211
+2023-06-19 8:38:38 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-19 8:38:38 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 211
+2023-06-19 8:38:53 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 65
+2023-06-19 8:38:53 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 68
+2023-06-19 8:38:53 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 65
+2023-06-19 8:38:53 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 68
+2023-06-19 8:38:53 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 65
+2023-06-19 8:38:53 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 68
+2023-06-19 8:39:29 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 65
+2023-06-19 8:39:29 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 68
+2023-06-19 8:39:29 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 65
+2023-06-19 8:39:29 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 68
+2023-06-19 8:39:29 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 65
+2023-06-19 8:39:29 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 68
+2023-06-19 8:41:38 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 68
+2023-06-19 8:41:38 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 68
+2023-06-19 8:41:38 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 68
+2023-06-19 8:42:39 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-19 8:42:39 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 211
+2023-06-19 8:42:42 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-19 8:42:42 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 211
+2023-06-19 8:42:42 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-19 8:42:42 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 211
+2023-06-19 8:42:47 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-19 8:42:47 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 211
+2023-06-19 8:43:14 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 94
+2023-06-19 8:43:14 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 211
+2023-06-19 8:43:15 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 94
+2023-06-19 8:43:15 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 211
+2023-06-19 8:43:17 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 94
+2023-06-19 8:43:17 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 211
+2023-06-19 8:43:29 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 94
+2023-06-19 8:43:29 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 211
+2023-06-19 8:43:44 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 94
+2023-06-19 8:43:44 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 211
+2023-06-19 8:43:46 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 94
+2023-06-19 8:43:46 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 211
+2023-06-19 8:46:15 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-19 8:46:15 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 211
+2023-06-19 8:48:03 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 92
+2023-06-19 8:48:03 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 211
+2023-06-19 8:49:08 - PHP Notice:  Undefined index: sort_order in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 17
+2023-06-19 8:49:08 - PHP Notice:  Undefined index: keyword in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 33

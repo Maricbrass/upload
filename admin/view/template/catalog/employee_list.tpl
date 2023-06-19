@@ -62,13 +62,15 @@
                 <?php if ($employees) { ?>
                 <?php foreach ($employees as $employee) { ?>
                 <tr>
-                  <td class="text-center"><?php if (in_array($employee['employee_id'], $selected)) { ?>
-                    <input type="checkbox" name="selected[]" value="<?php echo $employee['employee_id']; ?>" checked="checked" />
+                  <td class="text-center"><?php if (in_array($employee['id'], $selected)) { ?>
+                    <input type="checkbox" name="selected[]" value="<?php echo $employee['id']; ?>" checked="checked" />
                     <?php } else { ?>
-                    <input type="checkbox" name="selected[]" value="<?php echo $employee['employee_id']; ?>" />
+                    <input type="checkbox" name="selected[]" value="<?php echo $employee['id']; ?>" />
                     <?php } ?></td>
-                  <td class="text-left"><?php echo $employee['emp_name']; ?></td>
+                  <td class="text-left"><?php echo $employee['name']; ?></td>
                   <td class="text-right"><?php echo $employee['email']; ?></td>
+                  <td class="text-right"><?php echo $employee['address']; ?></td>
+                  <td class="text-right"><?php echo $employee['gender']; ?></td>
                   <td class="text-right"><a href="<?php echo $employee['edit']; ?>" data-toggle="tooltip" title="<?php echo $button_edit; ?>" class="btn btn-primary"><i class="fa fa-pencil"></i></a></td>
                 </tr>
                 <?php } ?>

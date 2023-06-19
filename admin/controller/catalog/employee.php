@@ -122,7 +122,7 @@ class ControllerCatalogemployee extends Controller {
 		} else {
 			$employee_id = null;
 		}
-		if (isset($this->request->get['emp_ name'])) {
+		if (isset($this->request->get['emp_name'])) {
 			$emp_name = $this->request->get['emp_name'];
 		} else {
 			$emp_name = null;
@@ -193,17 +193,18 @@ class ControllerCatalogemployee extends Controller {
 		$data['employees'] = array();
 
 		$filter_data = array(
-			'id'       => $employee_id,
-			'name'    => $emp_name,
-			'email'     => $emp_email,
-			'password'  => $emp_password,
-			'address'    => $emp_address,
-			'gender'     => $emp_gender,
+			//'id'       => $employee_id,
+			// 'emp_name'    => $emp_name,
+			// 'emp_email'     => $emp_email,
+			// 'emp_address'    => $emp_address,
+			// 'emp_gender'     => $emp_gender,
+			'sort'     => $sort,
+			'order'    => $order,
 			'start' => ($page - 1) * $this->config->get('config_limit_admin'),
 			'limit' => $this->config->get('config_limit_admin')
 		);
 
-		$employee_total = $this->model_catalog_employee->getTotalemployees();
+		$employee_total = $this->model_catalog_employee->getTotalemployees($filter_data);
 
 		$results = $this->model_catalog_employee->getemployees($filter_data);
 
@@ -212,7 +213,6 @@ class ControllerCatalogemployee extends Controller {
 				'id'          => $result['employee_id'],
 				'name'        => $result['name'],
 				'email'       => $result['email'],
-				'password'    => $result['password'],
 				'address'         => $result['address'],
 				'gender'          => $result['gender'],
 				'edit'            => $this->url->link('catalog/employee/edit', 'token=' . $this->session->data['token'] . '&employee_id=' . $result['employee_id'] . $url, true)
@@ -269,6 +269,9 @@ class ControllerCatalogemployee extends Controller {
 		}
 
 		$data['sort_name'] = $this->url->link('catalog/employee', 'token=' . $this->session->data['token'] . '&sort=name' . $url, true);
+		$data['sort_email'] = $this->url->link('catalog/employee', 'token=' . $this->session->data['token'] . '&sort=email' . $url, true);
+		$data['sort_address'] = $this->url->link('catalog/employee', 'token=' . $this->session->data['token'] . '&sort=address' . $url, true);
+		$data['sort_gender'] = $this->url->link('catalog/employee', 'token=' . $this->session->data['token'] . '&sort=gender' . $url, true);
 		$data['sort_sort_order'] = $this->url->link('catalog/employee', 'token=' . $this->session->data['token'] . '&sort=sort_order' . $url, true);
 
 		$url = '';
@@ -490,12 +493,12 @@ class ControllerCatalogemployee extends Controller {
 
 			foreach ($results as $result) {
 				$json[] = array(
-					'employee_id' => $result['employee_id'],
-					'emp_name' => $result['name'],
-					'emp_email' => $result['email'],
-					'emp_password' => $result['password'],
-					'emp_address' => $result['address'],
-					'emp_gender' => $result['gender'],
+					// 'employee_id' => $result['employee_id'],
+					// 'emp_name' => $result['name'],
+					// 'emp_email' => $result['email'],
+					// 'emp_password' => $result['password'],
+					// 'emp_address' => $result['address'],
+					// 'emp_gender' => $result['gender'],
 					'name'            => strip_tags(html_entity_decode($result['name'], ENT_QUOTES, 'UTF-8'))
 				);
 			}
@@ -512,4 +515,4 @@ class ControllerCatalogemployee extends Controller {
 		$this->response->addHeader('Content-Type: application/json');
 		$this->response->setOutput(json_encode($json));
 	}
-}
+ }

@@ -14,26 +14,9 @@ class ModelCatalogemployee extends Model {
 	}
 
 	public function editemployee($employee_id, $data) {
-		$this->db->query("UPDATE " . DB_PREFIX . "employee SET name = '" . $this->db->escape($data['name']) . "', sort_order = '" . (int)$data['sort_order'] . "' WHERE employee_id = '" . (int)$employee_id . "'");
+		$this->db->query("UPDATE " . DB_PREFIX . "employee SET name = '" . $this->db->escape($data['name']) . "', email = '". $this->db->escape($data['email'])."', password = '". $this->db->escape($data['password'])."',address = '".$this->db->escape($data['address'])."',gender = '".$this->db->escape($data['gender']). "' WHERE employee_id = '" . (int)$employee_id . "'");
 
-		if (isset($data['image'])) {
-			$this->db->query("UPDATE " . DB_PREFIX . "employee SET image = '" . $this->db->escape($data['image']) . "' WHERE employee_id = '" . (int)$employee_id . "'");
-		}
-
-		$this->db->query("DELETE FROM " . DB_PREFIX . "employee_to_store WHERE employee_id = '" . (int)$employee_id . "'");
-
-		if (isset($data['employee_store'])) {
-			foreach ($data['employee_store'] as $store_id) {
-				$this->db->query("INSERT INTO " . DB_PREFIX . "employee_to_store SET employee_id = '" . (int)$employee_id . "', store_id = '" . (int)$store_id . "'");
-			}
-		}
-
-		$this->db->query("DELETE FROM " . DB_PREFIX . "url_alias WHERE query = 'employee_id=" . (int)$employee_id . "'");
-
-		if ($data['keyword']) {
-			$this->db->query("INSERT INTO " . DB_PREFIX . "url_alias SET query = 'employee_id=" . (int)$employee_id . "', keyword = '" . $this->db->escape($data['keyword']) . "'");
-		}
-
+		
 		$this->cache->delete('employee');
 	}
 
@@ -59,7 +42,7 @@ class ModelCatalogemployee extends Model {
 		}
 
 		$sort_data = array(
-			'emp_name',
+			'name',
 			'sort_order'
 		);
 
@@ -89,7 +72,7 @@ class ModelCatalogemployee extends Model {
 
 		$query = $this->db->query($sql);
 
-		//return $query->rows;
+		return $query->rows;
 	}
 
 	public function getemployeeStores($employee_id) {
