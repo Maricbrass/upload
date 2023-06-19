@@ -11,6 +11,7 @@ class ControllerCatalogemployee extends Controller {
 
 		$this->getList();
 	}
+	//just test
 
 	public function add() {
 		$this->load->language('catalog/employee');
