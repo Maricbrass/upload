@@ -56,7 +56,7 @@
               <?php echo $emp_email; ?>
             </label>
             <div class="col-sm-10">
-              <input type="text" name="name" value="<?php echo $name; ?>" placeholder="<?php echo $emp_email; ?>"
+              <input type="text" name="email" value="<?php echo $email; ?>" placeholder="<?php echo $emp_email; ?>"
                 id="input-name" class="form-control" />
               <?php if ($error_name) { ?>
                 <div class="text-danger">
@@ -70,7 +70,7 @@
               <?php echo $emp_password; ?>
             </label>
             <div class="col-sm-10">
-              <input type="password" name="name" value="<?php echo $name; ?>" placeholder="<?php echo $emp_password; ?>"
+              <input type="password" name="password" value="<?php echo $password; ?>" placeholder="<?php echo $emp_password; ?>"
                 id="input-name" class="form-control" />
               <?php if ($error_name) { ?>
                 <div class="text-danger">
@@ -84,7 +84,7 @@
               <?php echo $emp_address; ?>
             </label>
             <div class="col-sm-10">
-              <input type="text" name="name" value="<?php echo $name; ?>" placeholder="<?php echo $emp_address; ?>"
+              <input type="text" name="address" value="<?php echo $address; ?>" placeholder="<?php echo $emp_address; ?>"
                 id="input-name" class="form-control" />
               <?php if ($error_name) { ?>
                 <div class="text-danger">

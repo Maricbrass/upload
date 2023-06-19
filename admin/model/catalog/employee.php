@@ -1,16 +1,16 @@
 <?php
 class ModelCatalogemployee extends Model {
 	public function addemployee($data) {
-		echo "<pre>";print_r($data);
-		 echo "<pre>";print_r("INSERT INTO " . DB_PREFIX . "employee SET name = '" . $this->db->escape($data['name']) . "', email = '". $data['emp_email']."', password = '". $this->db->escape($data['emp_password'])."',address = '".$this->db->escape($data['emp_address'])."',gender = '".$this->db->escape($data['gender'])."'");
-		 exit;
-		//$this->db->query("INSERT INTO " . DB_PREFIX . "employee SET emp_name = '" . $this->db->escape($data['emp_name']) . "', emp_email = '". $this->db->escape($data['emp_email'])."', emp_password = '". $this->db->escape($data['emp_password'])."',address = '".$this->db->escape($data['address'])."',gender = '".$this->db->escape($data['gender'])."'");
+		//echo "<pre>";print_r($data);
+		// echo "<pre>";print_r("INSERT INTO " . DB_PREFIX . "employee SET name = '" . $this->db->escape($data['name']) . "', email = '". $data['emp_email']."', password = '". $this->db->escape($data['emp_password'])."',address = '".$this->db->escape($data['emp_address'])."',gender = '".$this->db->escape($data['gender'])."'");
+		// exit;
+		$this->db->query("INSERT INTO " . DB_PREFIX . "employee SET emp_name = '" . $this->db->escape($data['emp_name']) . "', emp_email = '". $this->db->escape($data['emp_email'])."', emp_password = '". $this->db->escape($data['emp_password'])."',address = '".$this->db->escape($data['address'])."',gender = '".$this->db->escape($data['gender'])."'");
 		
-		//$employee_id = $this->db->getLastId();
+		$employee_id = $this->db->getLastId();
 
-		//$this->cache->delete('employee');
+		$this->cache->delete('employee');
 
-		//return $employee_id;
+		return $employee_id;
 	}
 
 	public function editemployee($employee_id, $data) {

@@ -11,7 +11,7 @@ class ControllerCatalogemployee extends Controller {
 
 		$this->getList();
 	}
-	
+
 
 	public function add() {
 		$this->load->language('catalog/employee');
@@ -19,7 +19,7 @@ class ControllerCatalogemployee extends Controller {
 		$this->document->setTitle($this->language->get('heading_title'));
 
 		$this->load->model('catalog/employee');
-		 echo"<pre>";print_r($this->request->post);
+		 //echo"<pre>";print_r($this->request->post);
 		if (($this->request->server['REQUEST_METHOD'] == 'POST') && $this->validateForm()) {
 			$this->model_catalog_employee->addemployee($this->request->post);
 
