@@ -95,12 +95,19 @@
           </div>
           <div class="form-group required">
             <label class="col-sm-2 control-label" for="input-name">
-              <?php echo $emp_gender; ?>
+              <?php echo $emp_gender;
+              //$sel = $emp_gender;
+            ?>
             </label>
-            <select name="gender" id="gender">
-              <option value="male">Male</option>
-              <option value="female">Female</option>
-              <option value="other">Other</option>
+            <select name="gender" id="gender" >
+              <!-- <option value="male" <?php if($gender==='male') "selected";?>>Male</option>
+              <option value="female" <?php if($gender==='female') "selected";?>>Female</option>
+              <option value="other" <?php if($gender==='other') "selected";?>>Other</option> -->
+
+              <option value="male" >Male</option>
+              <option value="female" >Female</option>
+              <option value="other" >Other</option>
+              <option value="<?php echo $gender; ?>" selected hidden="hidden"><?php echo $gender; ?></option>
             </select>
           </div>
       </div>
