@@ -34,6 +34,12 @@ class ModelCatalogemployee extends Model {
 		return $query->row;
 	}
 
+	public function getEmployeeId($employee_id) {
+		$query = $this->db->query("SELECT COUNT(*) AS total FROM " . DB_PREFIX . "employee WHERE employee_id = '" . (int)$employee_id . "'");
+
+		return $query->row['total'];
+	}
+
 	public function getemployees($data = array()) {
 		$sql = "SELECT * FROM " . DB_PREFIX . "employee";
 

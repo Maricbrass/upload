@@ -193,11 +193,11 @@ class ControllerCatalogemployee extends Controller {
 		$data['employees'] = array();
 
 		$filter_data = array(
-			//'id'       => $employee_id,
-			// 'emp_name'    => $emp_name,
-			// 'emp_email'     => $emp_email,
-			// 'emp_address'    => $emp_address,
-			// 'emp_gender'     => $emp_gender,
+			'id'       => $employee_id,
+			 'emp_name'    => $emp_name,
+			 'emp_email'     => $emp_email,
+			 'emp_address'    => $emp_address,
+			 'emp_gender'     => $emp_gender,
 			'sort'     => $sort,
 			'order'    => $order,
 			'start' => ($page - 1) * $this->config->get('config_limit_admin'),
@@ -464,15 +464,15 @@ class ControllerCatalogemployee extends Controller {
 			$this->error['warning'] = $this->language->get('error_permission');
 		}
 
-		$this->load->model('catalog/product');
+		$this->load->model('catalog/employee');
 
-		foreach ($this->request->post['selected'] as $employee_id) {
-			$product_total = $this->model_catalog_product->getTotalProductsByemployeeId($employee_id);
+		// foreach ($this->request->post['selected'] as $employee_id) {
+		// 	$employee_total = $this->model_catalog_employee->getEmployeeId($employee_id);
 
-			if ($product_total) {
-				$this->error['warning'] = sprintf($this->language->get('error_product'), $product_total);
-			}
-		}
+		// 	if ($employee_total) {
+		// 		$this->error['warning'] = sprintf($this->language->get('error_product'), $employee_total);
+		// 	}
+		// }
 
 		return !$this->error;
 	}
