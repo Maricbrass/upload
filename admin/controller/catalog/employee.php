@@ -112,6 +112,26 @@ class ControllerCatalogemployee extends Controller {
 	}
 
 	protected function getList() {
+		if (isset($this->request->get['name'])) {
+			$name = $this->request->get['name'];
+		} else {
+			$name = null;
+		}
+		if (isset($this->request->get['email'])) {
+			$email = $this->request->get['email'];
+		} else {
+			$email = null;
+		}
+		if (isset($this->request->get['address'])) {
+			$address = $this->request->get['address'];
+		} else {
+			$address = null;
+		}
+		if (isset($this->request->get['gender'])) {
+			$gender = $this->request->get['gender'];
+		} else {
+			$gender = null;
+		}
 		if (isset($this->request->get['sort'])) {
 			$sort = $this->request->get['sort'];
 		} else {
@@ -193,6 +213,10 @@ class ControllerCatalogemployee extends Controller {
 		$data['employees'] = array();
 
 		$filter_data = array(
+			'name'	  => $name,
+			'email'	  => $email,
+			'address'	  => $address,
+			'gender'	  => $gender,
 			'id'       => $employee_id,
 			 'emp_name'    => $emp_name,
 			 'emp_email'     => $emp_email,
@@ -235,7 +259,10 @@ class ControllerCatalogemployee extends Controller {
 		$data['button_add'] = $this->language->get('button_add');
 		$data['button_edit'] = $this->language->get('button_edit');
 		$data['button_delete'] = $this->language->get('button_delete');
+		$data['button_filter'] = $this->language->get('button_filter');
 
+		$data['token'] = $this->session->data['token'];
+		
 		if (isset($this->error['warning'])) {
 			$data['error_warning'] = $this->error['warning'];
 		} else {
@@ -258,6 +285,19 @@ class ControllerCatalogemployee extends Controller {
 
 		$url = '';
 
+		if (isset($this->request->get['name'])) {
+			$url .= '&name=' . urlencode(html_entity_decode($this->request->get['name'], ENT_QUOTES, 'UTF-8'));
+		}
+
+		if (isset($this->request->get['email'])) {
+			$url .= '&email=' . urlencode(html_entity_decode($this->request->get['email'], ENT_QUOTES, 'UTF-8'));
+		}
+
+		if (isset($this->request->get['address'])) {
+			$url .= '&address=' . urlencode(html_entity_decode($this->request->get['address'], ENT_QUOTES, 'UTF-8'));
+		}
+
+
 		if ($order == 'ASC') {
 			$url .= '&order=DESC';
 		} else {
@@ -272,9 +312,21 @@ class ControllerCatalogemployee extends Controller {
 		$data['sort_email'] = $this->url->link('catalog/employee', 'token=' . $this->session->data['token'] . '&sort=email' . $url, true);
 		$data['sort_address'] = $this->url->link('catalog/employee', 'token=' . $this->session->data['token'] . '&sort=address' . $url, true);
 		$data['sort_gender'] = $this->url->link('catalog/employee', 'token=' . $this->session->data['token'] . '&sort=gender' . $url, true);
-		$data['sort_sort_order'] = $this->url->link('catalog/employee', 'token=' . $this->session->data['token'] . '&sort=sort_order' . $url, true);
+		//$data['sort_sort_order'] = $this->url->link('catalog/employee', 'token=' . $this->session->data['token'] . '&sort=sort_order' . $url, true);
 
 		$url = '';
+
+		if (isset($this->request->get['name'])) {
+			$url .= 'name=' . urlencode(html_entity_decode($this->request->get['name'], ENT_QUOTES, 'UTF-8'));
+		}
+
+		if (isset($this->request->get['email'])) {
+			$url .= '&email=' . urlencode(html_entity_decode($this->request->get['email'], ENT_QUOTES, 'UTF-8'));
+		}
+
+		if (isset($this->request->get['address'])) {
+			$url .= '&address=' . urlencode(html_entity_decode($this->request->get['address'], ENT_QUOTES, 'UTF-8'));
+		}
 
 		if (isset($this->request->get['sort'])) {
 			$url .= '&sort=' . $this->request->get['sort'];
@@ -294,6 +346,9 @@ class ControllerCatalogemployee extends Controller {
 
 		$data['results'] = sprintf($this->language->get('text_pagination'), ($employee_total) ? (($page - 1) * $this->config->get('config_limit_admin')) + 1 : 0, ((($page - 1) * $this->config->get('config_limit_admin')) > ($employee_total - $this->config->get('config_limit_admin'))) ? $employee_total : ((($page - 1) * $this->config->get('config_limit_admin')) + $this->config->get('config_limit_admin')), $employee_total, ceil($employee_total / $this->config->get('config_limit_admin')));
 
+		$data['name'] = $name;
+		$data['email'] = $email;
+		$data['address']= $address;
 		$data['sort'] = $sort;
 		$data['order'] = $order;
 
@@ -480,11 +535,32 @@ class ControllerCatalogemployee extends Controller {
 	public function autocomplete() {
 		$json = array();
 
-		if (isset($this->request->get['filter_name'])) {
+		if (isset($this->request->get['name'])) {
 			$this->load->model('catalog/employee');
 
+			if (isset($this->request->get['name'])) {
+				$name = $this->request->get['name'];
+			} else {
+				$name = '';
+			}
+			if (isset($this->request->get['email'])) {
+				$email = $this->request->get['email'];
+			} else {
+				$email = '';
+			}
+			if (isset($this->request->get['address'])) {
+				$address = $this->request->get['address'];
+			} else {
+				$address = '';
+			}
+
+
 			$filter_data = array(
-				'filter_name' => $this->request->get['filter_name'],
+				
+				 'name'  => $name,
+				 'email'  => $email,
+				 'address' => $address,
+				//'name' => $this->request->get['name'],
 				'start'       => 0,
 				'limit'       => 5
 			);
@@ -494,12 +570,12 @@ class ControllerCatalogemployee extends Controller {
 			foreach ($results as $result) {
 				$json[] = array(
 					// 'employee_id' => $result['employee_id'],
-					// 'emp_name' => $result['name'],
-					// 'emp_email' => $result['email'],
+					 'name' => $result['name'],
+					 'email' => $result['email'],
 					// 'emp_password' => $result['password'],
-					// 'emp_address' => $result['address'],
+					'address' => $result['address'],
 					// 'emp_gender' => $result['gender'],
-					'name'            => strip_tags(html_entity_decode($result['name'], ENT_QUOTES, 'UTF-8'))
+					//'name'            => strip_tags(html_entity_decode($result['name'], ENT_QUOTES, 'UTF-8'))
 				);
 			}
 		}
@@ -508,6 +584,7 @@ class ControllerCatalogemployee extends Controller {
 
 		foreach ($json as $key => $value) {
 			$sort_order[$key] = $value['name'];
+			$sort_order[$key] = $value['email'];
 		}
 
 		array_multisort($sort_order, SORT_ASC, $json);

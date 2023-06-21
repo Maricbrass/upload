@@ -56,7 +56,7 @@
               <?php echo $emp_email; ?>
             </label>
             <div class="col-sm-10">
-              <input type="text" name="email" value="<?php echo $email; ?>" placeholder="<?php echo $emp_email; ?>"
+              <input type="email" name="email" value="<?php echo $email; ?>" placeholder="<?php echo $emp_email; ?>"
                 id="input-name" class="form-control" />
               <?php if ($error_name) { ?>
                 <div class="text-danger">

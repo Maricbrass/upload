@@ -43,19 +43,34 @@ class ModelCatalogemployee extends Model {
 	public function getemployees($data = array()) {
 		$sql = "SELECT * FROM " . DB_PREFIX . "employee";
 
-		if (!empty($data['filter_name'])) {
-			$sql .= " WHERE name LIKE '" . $this->db->escape($data['filter_name']) . "%'";
+		if (!empty($data['name'])) {
+			$sql .= " WHERE name LIKE '" . $this->db->escape($data['name']) . "%'";
+		}
+		
+		if (!empty($data['email'])) {
+			$sql .= " WHERE email LIKE '" . $this->db->escape($data['email']) . "%'";
+		}
+
+		if (!empty($data['address'])) {
+			$sql .= " WHERE address LIKE '" . $this->db->escape($data['address']) . "%'";
+		}
+
+		if (!empty($data['gender'])) {
+			$sql .= " WHERE gender LIKE '" . $this->db->escape($data['gender']) . "%'";
 		}
 
 		$sort_data = array(
 			'name',
-			'sort_order'
+			'email',
+			'address',
+			'gender'
+			//'sort_order'
 		);
 
 		if (isset($data['sort']) && in_array($data['sort'], $sort_data)) {
 			$sql .= " ORDER BY " . $data['sort'];
 		} else {
-			$sql .= " ORDER BY emp_name";
+			$sql .= " ORDER BY name";
 		}
 
 		if (isset($data['order']) && ($data['order'] == 'DESC')) {
