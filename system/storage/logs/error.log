@@ -2676,3 +2676,581 @@
 2023-06-21 12:42:21 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
 2023-06-21 12:42:24 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
 2023-06-21 12:42:27 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 12:49:41 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 12:50:13 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 12:52:18 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 12:52:20 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:04:10 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:04:20 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:04:23 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:04:25 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:04:35 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:04:44 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:08:07 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:08:08 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 564
+2023-06-21 19:08:08 - PHP Notice:  Undefined index: address in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 565
+2023-06-21 19:08:20 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 564
+2023-06-21 19:08:20 - PHP Notice:  Undefined index: address in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 565
+2023-06-21 19:08:22 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 564
+2023-06-21 19:08:22 - PHP Notice:  Undefined index: address in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 565
+2023-06-21 19:08:23 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 564
+2023-06-21 19:08:23 - PHP Notice:  Undefined index: address in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 565
+2023-06-21 19:08:23 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 564
+2023-06-21 19:08:23 - PHP Notice:  Undefined index: address in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 565
+2023-06-21 19:08:24 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 564
+2023-06-21 19:08:24 - PHP Notice:  Undefined index: address in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 565
+2023-06-21 19:08:25 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 564
+2023-06-21 19:08:25 - PHP Notice:  Undefined index: address in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 565
+2023-06-21 19:08:32 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 564
+2023-06-21 19:08:32 - PHP Notice:  Undefined index: address in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 565
+2023-06-21 19:08:48 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 564
+2023-06-21 19:08:48 - PHP Notice:  Undefined index: address in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 565
+2023-06-21 19:09:20 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:10:42 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:12:32 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 564
+2023-06-21 19:12:34 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 564
+2023-06-21 19:12:41 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:15:11 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:15:24 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 564
+2023-06-21 19:15:27 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 564
+2023-06-21 19:16:30 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:16:37 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:17:05 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:17:49 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:20:42 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:21:03 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:21:55 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:22:00 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:22:03 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:22:05 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:23:52 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:23:52 - PHP Notice:  Undefined variable: button_clear in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 66
+2023-06-21 19:24:48 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:25:05 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:25:39 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:27:32 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:27:36 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:27:38 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:27:44 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 98
+2023-06-21 19:27:44 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 235
+2023-06-21 19:27:44 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:27:48 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:27:53 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:27:54 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:28:20 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:28:22 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:37:27 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:37:35 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 98
+2023-06-21 19:37:35 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 235
+2023-06-21 19:37:35 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:37:42 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:37:45 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 98
+2023-06-21 19:37:45 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 235
+2023-06-21 19:37:46 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:37:50 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:38:05 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 98
+2023-06-21 19:38:05 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 235
+2023-06-21 19:38:05 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:38:11 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:38:12 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 98
+2023-06-21 19:38:12 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 235
+2023-06-21 19:38:12 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:39:12 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 98
+2023-06-21 19:39:12 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 235
+2023-06-21 19:39:12 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:39:14 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:39:14 - PHP Notice:  Undefined index: id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 103
+2023-06-21 19:39:14 - PHP Notice:  Undefined index: id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 106
+2023-06-21 19:39:14 - PHP Notice:  Undefined index: id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 103
+2023-06-21 19:39:14 - PHP Notice:  Undefined index: id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 106
+2023-06-21 19:39:16 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:39:16 - PHP Notice:  Undefined index: id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 103
+2023-06-21 19:39:16 - PHP Notice:  Undefined index: id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 106
+2023-06-21 19:39:16 - PHP Notice:  Undefined index: id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 103
+2023-06-21 19:39:16 - PHP Notice:  Undefined index: id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 106
+2023-06-21 19:39:16 - PHP Notice:  Undefined index: id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 103
+2023-06-21 19:39:16 - PHP Notice:  Undefined index: id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 106
+2023-06-21 19:39:16 - PHP Notice:  Undefined index: id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 103
+2023-06-21 19:39:16 - PHP Notice:  Undefined index: id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 106
+2023-06-21 19:39:16 - PHP Notice:  Undefined index: id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 103
+2023-06-21 19:39:16 - PHP Notice:  Undefined index: id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 106
+2023-06-21 19:39:19 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:39:19 - PHP Notice:  Undefined index: id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 103
+2023-06-21 19:39:19 - PHP Notice:  Undefined index: id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 106
+2023-06-21 19:39:19 - PHP Notice:  Undefined index: id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 103
+2023-06-21 19:39:19 - PHP Notice:  Undefined index: id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 106
+2023-06-21 19:39:19 - PHP Notice:  Undefined index: id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 103
+2023-06-21 19:39:19 - PHP Notice:  Undefined index: id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 106
+2023-06-21 19:39:19 - PHP Notice:  Undefined index: id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 103
+2023-06-21 19:39:19 - PHP Notice:  Undefined index: id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 106
+2023-06-21 19:39:19 - PHP Notice:  Undefined index: id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 103
+2023-06-21 19:39:19 - PHP Notice:  Undefined index: id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 106
+2023-06-21 19:40:30 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:40:47 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 98
+2023-06-21 19:40:47 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 235
+2023-06-21 19:40:47 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:40:50 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:40:55 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 98
+2023-06-21 19:40:55 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 235
+2023-06-21 19:40:55 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:41:36 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:41:46 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 98
+2023-06-21 19:41:46 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 235
+2023-06-21 19:41:46 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:43:00 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:43:03 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:43:04 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:43:06 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:43:07 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:44:39 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:44:42 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:44:43 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:45:03 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:45:30 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 98
+2023-06-21 19:45:30 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 235
+2023-06-21 19:45:30 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:45:47 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 98
+2023-06-21 19:45:47 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 235
+2023-06-21 19:45:47 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:47:53 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 98
+2023-06-21 19:47:53 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 235
+2023-06-21 19:47:53 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:47:55 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:48:00 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:48:20 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:49:31 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:49:36 - PHP Notice:  Undefined variable: emp_name in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 42
+2023-06-21 19:49:36 - PHP Notice:  Undefined variable: emp_name in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_form.tpl on line 45
+2023-06-21 19:49:44 - PHP Notice:  Undefined variable: gender in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 57
+2023-06-21 19:52:56 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 98
+2023-06-21 19:52:56 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 235
+2023-06-21 19:55:59 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 98
+2023-06-21 19:55:59 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 235
+2023-06-21 19:56:03 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 573
+2023-06-21 19:56:05 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 573
+2023-06-21 19:56:06 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 573
+2023-06-21 19:57:36 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 578
+2023-06-21 19:57:37 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 578
+2023-06-21 19:58:15 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 578
+2023-06-21 19:58:18 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 578
+2023-06-21 20:00:07 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 578
+2023-06-21 20:00:41 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 612
+2023-06-21 20:00:41 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 612
+2023-06-21 20:00:41 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 612
+2023-06-21 20:00:41 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 612
+2023-06-21 20:00:41 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 612
+2023-06-21 20:00:43 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 612
+2023-06-21 20:00:43 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 612
+2023-06-21 20:00:43 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 612
+2023-06-21 20:00:43 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 612
+2023-06-21 20:00:43 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 612
+2023-06-21 20:00:47 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 578
+2023-06-21 20:00:47 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 612
+2023-06-21 20:00:47 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 612
+2023-06-21 20:00:47 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 612
+2023-06-21 20:00:47 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 612
+2023-06-21 20:00:47 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 612
+2023-06-21 20:00:47 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 612
+2023-06-21 20:00:47 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 612
+2023-06-21 20:00:47 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 612
+2023-06-21 20:00:47 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 612
+2023-06-21 20:00:47 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 612
+2023-06-21 20:00:48 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 612
+2023-06-21 20:00:48 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 612
+2023-06-21 20:00:48 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 612
+2023-06-21 20:00:48 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 612
+2023-06-21 20:00:48 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 612
+2023-06-21 20:04:57 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 578
+2023-06-21 20:05:55 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 579
+2023-06-21 20:05:56 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 578
+2023-06-21 20:05:57 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 578
+2023-06-21 20:06:05 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 579
+2023-06-21 20:06:08 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 579
+2023-06-21 20:06:09 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 579
+2023-06-21 20:10:23 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 98
+2023-06-21 20:10:23 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 235
+2023-06-21 20:11:25 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 98
+2023-06-21 20:11:25 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 235
+2023-06-21 20:11:29 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 103
+2023-06-21 20:11:29 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 106
+2023-06-21 20:11:29 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 103
+2023-06-21 20:11:29 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 106
+2023-06-21 20:11:29 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 103
+2023-06-21 20:11:29 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 106
+2023-06-21 20:11:29 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 103
+2023-06-21 20:11:29 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 106
+2023-06-21 20:11:29 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 103
+2023-06-21 20:11:29 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 106
+2023-06-21 20:11:32 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 103
+2023-06-21 20:11:32 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 106
+2023-06-21 20:11:32 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 103
+2023-06-21 20:11:32 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 106
+2023-06-21 20:11:32 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 103
+2023-06-21 20:11:32 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 106
+2023-06-21 20:11:32 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 103
+2023-06-21 20:11:32 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 106
+2023-06-21 20:11:32 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 103
+2023-06-21 20:11:32 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 106
+2023-06-21 20:13:04 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 98
+2023-06-21 20:13:04 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 231
+2023-06-21 20:13:39 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 98
+2023-06-21 20:13:39 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 231
+2023-06-21 20:14:33 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 98
+2023-06-21 20:14:33 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 231
+2023-06-21 20:18:45 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 98
+2023-06-21 20:18:45 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 231
+2023-06-22 5:16:49 - PHP Warning:  Missing argument 2 for ModelCatalogemployee::getemployees() in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 43
+2023-06-22 5:16:49 - PHP Notice:  Undefined variable: employee_id in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 44
+2023-06-22 5:18:19 - PHP Warning:  Missing argument 2 for ModelCatalogemployee::getemployees() in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 43
+2023-06-22 5:18:19 - PHP Notice:  Undefined variable: employee_id in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 44
+2023-06-22 6:32:59 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 7:14:18 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 7:14:21 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 7:14:49 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 7:18:56 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 7:29:09 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 7:29:18 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 7:31:33 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 7:31:35 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 7:31:39 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 7:32:47 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 7:32:50 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 7:32:54 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 7:33:41 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 7:33:43 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 7:36:02 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 7:37:46 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 7:37:59 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:05:33 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:05:42 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:05:57 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:06:04 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:18:50 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:20:03 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:20:06 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:21:30 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:21:40 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:21:45 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:23:11 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:23:22 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:23:32 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:23:41 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:24:14 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:24:23 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:24:28 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:24:33 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:26:40 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:26:46 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:26:49 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:26:54 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:26:59 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:27:03 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:27:07 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:27:10 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:27:34 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:27:37 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:27:46 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:27:51 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:28:36 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:29:49 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:29:53 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:29:57 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:30:05 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:30:08 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:30:16 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:30:18 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:30:21 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:30:22 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:30:24 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:30:24 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:30:30 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:30:37 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:38:37 - PHP Notice:  Undefined variable: sql in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 148
+2023-06-22 8:38:37 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:39:09 - PHP Unknown:  Object of class stdClass could not be converted to string in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 148
+2023-06-22 8:39:10 - PHP Unknown:  Object of class stdClass could not be converted to string in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 148
+2023-06-22 8:40:10 - PHP Unknown:  Object of class stdClass could not be converted to string in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 148
+2023-06-22 8:41:54 - PHP Unknown:  Object of class stdClass could not be converted to string in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 148
+2023-06-22 8:41:59 - PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 18
+2023-06-22 8:41:59 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 151
+2023-06-22 8:41:59 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:42:27 - PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 18
+2023-06-22 8:42:27 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 151
+2023-06-22 8:42:27 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 8:42:32 - PHP Unknown:  Object of class stdClass could not be converted to string in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 148
+2023-06-22 8:45:13 - PHP Unknown:  Object of class stdClass could not be converted to string in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 148
+2023-06-22 8:45:36 - PHP Unknown:  Object of class stdClass could not be converted to string in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 148
+2023-06-22 8:48:25 - PHP Unknown:  Object of class stdClass could not be converted to string in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 148
+2023-06-22 8:50:41 - PHP Unknown:  Object of class stdClass could not be converted to string in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 148
+2023-06-22 8:50:50 - PHP Unknown:  Object of class stdClass could not be converted to string in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 148
+2023-06-22 8:51:54 - PHP Unknown:  Object of class stdClass could not be converted to string in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 148
+2023-06-22 8:59:55 - PHP Unknown:  Object of class stdClass could not be converted to string in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 147
+2023-06-22 9:00:17 - PHP Unknown:  Object of class stdClass could not be converted to string in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 147
+2023-06-22 9:00:32 - PHP Unknown:  Object of class stdClass could not be converted to string in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 147
+2023-06-22 9:04:14 - PHP Unknown:  Object of class stdClass could not be converted to string in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 147
+2023-06-22 9:04:17 - PHP Unknown:  Object of class stdClass could not be converted to string in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 147
+2023-06-22 9:04:31 - PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 18
+2023-06-22 9:04:31 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 154
+2023-06-22 9:04:31 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:04:44 - PHP Notice:  Undefined variable: query in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 154
+2023-06-22 9:04:44 - PHP Notice:  Trying to get property of non-object in C:\xampp\htdocs\upload\admin\model\catalog\employee.php on line 154
+2023-06-22 9:04:44 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:05:22 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:05:28 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:10:18 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:10:24 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:11:20 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:11:30 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:11:32 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:15:25 - PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 45
+2023-06-22 9:15:25 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:15:34 - PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 45
+2023-06-22 9:15:34 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:15:46 - PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 45
+2023-06-22 9:15:46 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:17:05 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:17:12 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:17:15 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:17:59 - PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 45
+2023-06-22 9:17:59 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:26:07 - PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 45
+2023-06-22 9:26:07 - PHP Notice:  Undefined variable: output_n in C:\xampp\htdocs\upload\system\library\pagination.php on line 105
+2023-06-22 9:26:07 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:26:12 - PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 45
+2023-06-22 9:26:12 - PHP Notice:  Undefined variable: output_n in C:\xampp\htdocs\upload\system\library\pagination.php on line 105
+2023-06-22 9:26:12 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:26:13 - PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 45
+2023-06-22 9:26:13 - PHP Notice:  Undefined variable: output_n in C:\xampp\htdocs\upload\system\library\pagination.php on line 105
+2023-06-22 9:26:13 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:27:19 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:27:23 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:33:48 - PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 45
+2023-06-22 9:33:48 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:34:02 - PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 45
+2023-06-22 9:34:02 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:34:08 - PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 45
+2023-06-22 9:34:08 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:34:57 - PHP Warning:  mysqli::real_escape_string() expects parameter 1 to be string, array given in C:\xampp\htdocs\upload\system\library\db\mysqli.php on line 45
+2023-06-22 9:34:57 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:36:20 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:36:31 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:36:44 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:46:00 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:46:02 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:46:06 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:46:31 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:46:36 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:46:38 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:47:02 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:48:13 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 9:48:18 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:05:39 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:05:53 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:06:02 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:06:31 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:07:09 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:07:14 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:07:55 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:08:03 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:09:10 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:09:10 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 104
+2023-06-22 11:09:10 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 107
+2023-06-22 11:09:10 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 104
+2023-06-22 11:09:10 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 107
+2023-06-22 11:09:10 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 104
+2023-06-22 11:09:10 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 107
+2023-06-22 11:09:21 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:09:21 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 104
+2023-06-22 11:09:21 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 107
+2023-06-22 11:09:21 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 104
+2023-06-22 11:09:21 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 107
+2023-06-22 11:09:21 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 104
+2023-06-22 11:09:21 - PHP Notice:  Undefined index: employee_id in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 107
+2023-06-22 11:13:48 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:13:55 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:14:09 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:14:15 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:32:12 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:32:16 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:32:37 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:34:28 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:34:32 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:34:36 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:34:38 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:34:44 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:34:46 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:35:03 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:35:06 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:35:24 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:35:49 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:35:52 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:36:15 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:36:18 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:36:21 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:36:24 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:36:26 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:36:48 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:36:50 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:36:52 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:36:55 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:36:58 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:37:23 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:37:28 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:37:42 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:38:26 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:38:30 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:38:37 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:38:53 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:38:56 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:39:02 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:39:26 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:39:30 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:39:36 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:43:07 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:43:10 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:43:27 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:43:45 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:43:52 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:44:20 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:45:16 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:45:20 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:50:12 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:50:17 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:51:12 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:51:15 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:51:17 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:51:37 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:51:39 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:51:41 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:51:45 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:51:48 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:51:49 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:52:41 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 404
+2023-06-22 11:52:41 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:53:06 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 404
+2023-06-22 11:53:06 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:53:30 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 404
+2023-06-22 11:53:30 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:53:43 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:53:56 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:54:04 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:54:16 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 404
+2023-06-22 11:54:16 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:54:28 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 404
+2023-06-22 11:54:28 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:54:35 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 404
+2023-06-22 11:54:35 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:54:37 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 404
+2023-06-22 11:54:37 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:54:41 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:54:44 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 404
+2023-06-22 11:54:44 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:54:51 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 404
+2023-06-22 11:54:51 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:55:33 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 404
+2023-06-22 11:55:33 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:55:37 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:55:40 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 404
+2023-06-22 11:55:40 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:56:22 - PHP Notice:  Undefined index: email in C:\xampp\htdocs\upload\admin\controller\catalog\employee.php on line 404
+2023-06-22 11:56:22 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:56:40 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:56:45 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:57:03 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:57:07 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:57:14 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:57:33 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:57:36 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:57:38 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:57:40 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:57:42 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:57:46 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:57:47 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:59:13 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:59:17 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 11:59:19 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:00:04 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:00:09 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:00:11 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:00:18 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:01:26 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:01:28 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:01:32 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:01:37 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:01:44 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:01:47 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:02:03 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:02:04 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:02:07 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:02:13 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:02:18 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:02:21 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:02:34 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:05:23 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:05:27 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:05:29 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:05:30 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:05:34 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:05:36 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:05:38 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:07:05 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:07:07 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:07:10 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:11:33 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:11:51 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:11:54 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:11:58 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:12:06 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:12:13 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:12:32 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:12:44 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:13:44 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:13:59 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:14:02 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:14:04 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:14:11 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:14:17 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:14:27 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:14:29 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:14:36 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:15:00 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:15:02 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:15:05 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:15:06 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:15:17 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:15:19 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:15:21 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:15:28 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:15:31 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:15:33 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:22:00 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:22:03 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:22:05 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:22:30 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:22:39 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:22:41 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:22:44 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:33:38 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:33:42 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:33:52 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:34:06 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:34:16 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:34:25 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:34:27 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:34:41 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:34:45 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:36:21 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:36:22 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:36:24 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:36:26 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:36:29 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:36:32 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:36:35 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:36:36 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:36:41 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:44:10 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:44:15 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:44:18 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:44:20 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:44:33 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6
+2023-06-22 12:58:33 - PHP Notice:  Undefined variable: copy in C:\xampp\htdocs\upload\admin\view\template\catalog\employee_list.tpl on line 6

@@ -20,10 +20,41 @@ class ModelCatalogemployee extends Model {
 		$this->cache->delete('employee');
 	}
 
+	// public function copyemployee($employee_id) {
+	// 	$query = $this->db->query("SELECT DISTINCT * FROM " . DB_PREFIX . "employee e WHERE e.employee_id = '" . (int)$employee_id . "'");
+
+	// 	if ($query->num_rows) {
+	// 		$data = $query->row;
+
+	// 		$data['sku'] = '';
+	// 		$data['upc'] = '';
+	// 		$data['viewed'] = '0';
+	// 		$data['keyword'] = '';
+	// 		$data['status'] = '0';
+
+	// 		$data['name'] = $this->getProductAttributes($employee_id);
+	// 		$data['email'] = $this->getProductDescriptions($employee_id);
+	// 		$data['address'] = $this->getProductDiscounts($employee_id);
+	// 		$data['gender'] = $this->getProductFilters($employee_id);
+	// 		// $data['product_image'] = $this->getProductImages($employee_id);
+	// 		// $data['product_option'] = $this->getProductOptions($employee_id);
+	// 		// $data['product_related'] = $this->getProductRelated($employee_id);
+	// 		// $data['product_reward'] = $this->getProductRewards($employee_id);
+	// 		// $data['product_special'] = $this->getProductSpecials($employee_id);
+	// 		// $data['product_category'] = $this->getProductCategories($employee_id);
+	// 		// $data['product_download'] = $this->getProductDownloads($employee_id);
+	// 		// $data['product_layout'] = $this->getProductLayouts($employee_id);
+	// 		// $data['product_store'] = $this->getProductStores($employee_id);
+	// 		// $data['product_recurrings'] = $this->getRecurrings($employee_id);
+
+	// 		$this->addemployee($data);
+	// 	}
+	// }
+
 	public function deleteemployee($employee_id) {
 		$this->db->query("DELETE FROM " . DB_PREFIX . "employee WHERE employee_id = '" . (int)$employee_id . "'");
-		$this->db->query("DELETE FROM " . DB_PREFIX . "employee_to_store WHERE employee_id = '" . (int)$employee_id . "'");
-		$this->db->query("DELETE FROM " . DB_PREFIX . "url_alias WHERE query = 'employee_id=" . (int)$employee_id . "'");
+		//$this->db->query("DELETE FROM " . DB_PREFIX . "employee_t WHERE employee_id = '" . (int)$employee_id . "'");
+		//$this->db->query("DELETE FROM " . DB_PREFIX . "url_alias WHERE query = 'employee_id=" . (int)$employee_id . "'");
 
 		$this->cache->delete('employee');
 	}
@@ -41,23 +72,25 @@ class ModelCatalogemployee extends Model {
 	}
 
 	public function getemployees($data = array()) {
-		$sql = "SELECT * FROM " . DB_PREFIX . "employee";
+		$sql = "SELECT * FROM " . DB_PREFIX . "employee WHERE 1=1";
 
 		if (!empty($data['name'])) {
-			$sql .= " WHERE name LIKE '" . $this->db->escape($data['name']) . "%'";
+			$sql .= " AND name LIKE '" . $this->db->escape($data['name']) . "%'";
 		}
 		
 		if (!empty($data['email'])) {
-			$sql .= " WHERE email LIKE '" . $this->db->escape($data['email']) . "%'";
+			$sql .= " AND email LIKE '" . $this->db->escape($data['email']) . "%'";
 		}
 
 		if (!empty($data['address'])) {
-			$sql .= " WHERE address LIKE '" . $this->db->escape($data['address']) . "%'";
+			$sql .= " AND address LIKE '" . $this->db->escape($data['address']) . "%'";
 		}
 
 		if (!empty($data['gender'])) {
-			$sql .= " WHERE gender LIKE '" . $this->db->escape($data['gender']) . "%'";
+			$sql .= " AND gender LIKE '" . $this->db->escape($data['gender']) . "%'";
 		}
+
+		$sql .= " GROUP BY employee_id";
 
 		$sort_data = array(
 			'name',
@@ -110,6 +143,13 @@ class ModelCatalogemployee extends Model {
 
 	public function getTotalemployees() {
 		$query = $this->db->query("SELECT COUNT(*) AS total FROM " . DB_PREFIX . "employee");
+
+		return $query->row['total'];
+	}
+	
+	public function getTotalEmployeebyname($data) {
+
+		$query = $this->db->query("SELECT COUNT(*) AS total FROM " . DB_PREFIX . "employee WHERE name LIKE '" . $this->db->escape($data['name']) . "%'");
 
 		return $query->row['total'];
 	}

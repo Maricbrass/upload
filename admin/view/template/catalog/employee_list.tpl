@@ -3,6 +3,7 @@
   <div class="page-header">
     <div class="container-fluid">
       <div class="pull-right"><a href="<?php echo $add; ?>" data-toggle="tooltip" title="<?php echo $button_add; ?>" class="btn btn-primary"><i class="fa fa-plus"></i></a>
+        <button type="button" data-toggle="tooltip" title="<?php echo $button_copy; ?>" class="btn btn-default" onclick="$('#form-product').attr('action', '<?php echo $copy; ?>').submit()"><i class="fa fa-copy"></i></button>
         <button type="button" data-toggle="tooltip" title="<?php echo $button_delete; ?>" class="btn btn-danger" onclick="confirm('<?php echo $text_confirm; ?>') ? $('#form-employee').submit() : false;"><i class="fa fa-trash-o"></i></button>
       </div>
       <h1><?php echo $heading_title; ?></h1>
@@ -54,15 +55,16 @@
             <div class="col-sm-4">
               <div class="form-group">
                 <label class="control-label" for="input-status"><?php echo $column_gender; ?></label>
-                <select name="gender" id="input-status" class="form-control" placeholder="<?php echo $column_gender; ?>" value="<?php echo $gender;?>">
-                  <option value="null"></option>
+                <select name="gender" id="input-status" class="form-control" value="<?php echo $gender;?>">
+                  <option value="null">Select</option>
                   <option value="male">Male</option>
                   <option value="female">Female</option>
                     <option value="other">Other</option>
    
                 </select>
               </div>
-              <button type="button" id="button-filter" class="btn btn-primary pull-right"><i class="fa fa-search"></i> <?php echo $button_filter; ?></button>
+              <button type="button" id="button-filter" class="btn btn-primary pull-right"><i class="fa fa-search"></i> <?php echo $button_filter; ?></button><br><br><br>
+              <button type="button" id="button-clear" class="btn btn-primary pull-right"><i class="fa fa-trash-o"></i> <?php echo $button_clear; ?></button>
             </div>
           </div>
         </div>
@@ -99,10 +101,10 @@
                 <?php if ($employees) { ?>
                 <?php foreach ($employees as $employee) { ?>
                 <tr>
-                  <td class="text-center"><?php if (in_array($employee['id'], $selected)) { ?>
-                    <input type="checkbox" name="selected[]" value="<?php echo $employee['id']; ?>" checked="checked" />
+                  <td class="text-center"><?php if (in_array($employee['employee_id'], $selected)) { ?>
+                    <input type="checkbox" name="selected[]" value="<?php echo $employee['employee_id']; ?>" checked="checked" />
                     <?php } else { ?>
-                    <input type="checkbox" name="selected[]" value="<?php echo $employee['id']; ?>" />
+                    <input type="checkbox" name="selected[]" value="<?php echo $employee['employee_id']; ?>" />
                     <?php } ?></td>
                   <td class="text-left"><?php echo $employee['name']; ?></td>
                   <td class="text-left"><?php echo $employee['email']; ?></td>
@@ -154,7 +156,7 @@ $('#button-filter').on('click', function() {
 	if (gender != 'null') {
    // document.write("ywegfyugwuigfyuwgfuygwyfgvywgfygeygaweufyguirfgeruigfuig")
 		url += '&gender=' + encodeURIComponent(gender);
-    if(url == 'index.php?route=catalog/employee&token=<?php echo $token; ?>&gender=null' || url == 'index.php?route=catalog/employee&token=<?php echo $token; ?>&gender=undefined'){
+    if(url == 'index.php?route=catalog/employee&token=<?php echo $token; ?>&gender=null'){
       url = 'index.php?route=catalog/employee&token=<?php echo $token; ?>';
     }
 	}
@@ -170,35 +172,35 @@ $('#button-filter').on('click', function() {
 </script>
   <script type="text/javascript"><!--
 $('input[name=\'name\']').autocomplete({
-  'source': function(request, response) {
-    $.ajax({
-      url: 'index.php?route=catalog/employee/autocomplete&token=<?php echo $token; ?>&name=' +  encodeURIComponent(request),
-      dataType: 'json',
-      success: function(json) {
-        response($.map(json, function(item) {
-          return {
-            label: item['name'],
-            value: item['employee_id']
-          }
-        }));
-      }
-    });
-  },
-  'select': function(item) {
-    $('input[name=\'name\']').val(item['label']);
-  }
+	'source': function(request, response) {
+		$.ajax({
+			url: 'index.php?route=catalog/employee/autocomplete&token=<?php echo $token; ?>&name=' +  encodeURIComponent(request),
+			dataType: 'json',
+			success: function(json) {
+				response($.map(json, function(item) {
+					return {
+						label: item['name'],
+						value: item['name']
+					}
+				}));
+			}
+		});
+	},
+	'select': function(item) {
+		$('input[name=\'name\']').val(item['label']);
+	}
 });
 
 $('input[name=\'email\']').autocomplete({
 	'source': function(request, response) {
 		$.ajax({
-			url: 'index.php?route=catalog/product/autocomplete&token=<?php echo $token; ?>&email=' +  encodeURIComponent(request),
+			url: 'index.php?route=catalog/employee/autocomplete&token=<?php echo $token; ?>&email=' +  encodeURIComponent(request),
 			dataType: 'json',
 			success: function(json) {
 				response($.map(json, function(item) {
 					return {
 						label: item['email'],
-						value: item['employee_id']
+						value: item['email']
 					}
 				}));
 			}
@@ -208,6 +210,34 @@ $('input[name=\'email\']').autocomplete({
 		$('input[name=\'email\']').val(item['label']);
 	}
 });
+
+$('input[name=\'address\']').autocomplete({
+	'source': function(request, response) {
+		$.ajax({
+			url: 'index.php?route=catalog/employee/autocomplete&token=<?php echo $token; ?>&address=' +  encodeURIComponent(request),
+			dataType: 'json',
+			success: function(json) {
+				response($.map(json, function(item) {
+					return {
+						label: item['address'],
+						value: item['address']
+					}
+				}));
+			}
+		});
+	},
+	'select': function(item) {
+		$('input[name=\'address\']').val(item['label']);
+	}
+});
 //--></script>
+
+<script type="text/javascript">
+$('#button-clear').on('click', function() {
+	var url = 'index.php?route=catalog/employee&token=<?php echo $token; ?>';
+  location = url;
+});
+</script>
+
 </div>
 <?php echo $footer; ?>
